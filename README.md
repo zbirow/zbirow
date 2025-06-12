@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zbirow
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Java, kotlin, js
-- 💞️ I’m looking to collaborate on Andorid app
+- 👀 I’m interested Game Reverse Enginering
+- 🌱 I’m currently learning Java, kotlin, js, Python
 - 📫 How to reach me Discord: zbirow#6816
 
 <!---
